@@ -1,0 +1,27 @@
+{
+  "name": "trello_sprint",
+  "version": "0.2.0",
+  "description": "Sprint graph creator from a trello board.",
+  "main": "app.js",
+  "dependencies": {
+    "cron": "~0.2.0",
+    "mailer": "~0.6.7",
+    "node-trello": "~0.0.1",
+    "request": "~2.9.153",
+    "quiche": "~0.0.7",
+    "underscore": "~1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "trello",
+    "sprint",
+    "graph",
+    "scrum"
+  ],
+  "author": "Gustavo Rodriguez",
+  "license": "BSD"
+}

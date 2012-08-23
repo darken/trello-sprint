@@ -1,0 +1,9 @@
+{
+  "key": "3f54c819717000da603c152a7f62b750",
+  "jobHour": 12,
+  "jobDaysOfWeek": "2-6",
+  "listNames": {
+    "tasks": [ "To do", "In process"],
+    "done": [ "Done" ]
+  }
+}

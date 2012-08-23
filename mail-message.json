@@ -1,0 +1,12 @@
+{
+  "host": "smtp.gmail.com",
+  "port": "587",
+  "domain": "smtp.gmail.com",
+  "authentication": "login",
+  "username": "",
+  "password": "",
+  "from": "",
+  "to": "darken.dev@gmail.com",
+  "subject": "Sprint graph",
+  "body": "Attached is the graph with the progress of the tasks until today."
+}

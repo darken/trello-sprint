@@ -1,0 +1,38 @@
+{
+  "chartTitle": "Scrum graph day",
+  "idealFirst": {
+    "label": "Ideal first day",
+    "color": "C0C0C0",
+    "thickness": 1,
+    "lineLength": 10,
+    "spaceLength": 10
+  },
+  "idealLast": {
+    "label": "Ideal",
+    "color": "FF9900",
+    "thickness": 1,
+    "lineLength": 10,
+    "spaceLength": 10
+  }, 
+  "total": {
+    "label": "Total tasks",
+    "color": "66CCFF",
+    "thickness": 1,
+    "lineLength": 0,
+    "spaceLength": 0
+  }, 
+  "done": {
+    "label": "Pending tasks",
+    "color": "0000FF",
+    "thickness": 1,
+    "lineLength": 0,
+    "spaceLength": 0
+  },
+  "supportDone": {
+    "label": "Done support",
+    "color": "FF3333",
+    "thickness": 1,
+    "lineLength": 0,
+    "spaceLength": 0
+  }
+}

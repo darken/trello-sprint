@@ -1,0 +1,38 @@
+{
+  "chartTitle": "Gráfica scrum día",
+  "idealFirst": {
+    "label": "Ideal primer día",
+    "color": "C0C0C0",
+    "thickness": 1,
+    "lineLength": 10,
+    "spaceLength": 10
+  },
+  "idealLast": {
+    "label": "Ideal final",
+    "color": "FF9900",
+    "thickness": 1,
+    "lineLength": 10,
+    "spaceLength": 10
+  }, 
+  "total": {
+    "label": "Total de tareas",
+    "color": "66CCFF",
+    "thickness": 1,
+    "lineLength": 0,
+    "spaceLength": 0
+  }, 
+  "done": {
+    "label": "Tareas pendientes",
+    "color": "0000FF",
+    "thickness": 1,
+    "lineLength": 0,
+    "spaceLength": 0
+  },
+  "supportDone": {
+    "label": "Soporte termindo",
+    "color": "FF3333",
+    "thickness": 1,
+    "lineLength": 0,
+    "spaceLength": 0
+  }
+}
